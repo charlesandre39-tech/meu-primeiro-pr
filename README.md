@@ -14,6 +14,6 @@ Este repositório foi criado para aprender a:
 
 Clone o repositório e explore os arquivos.
 
-## Contibuting
+## Contributing
 
 Contribuições são bem-vindas! Sinta-se livre para abrir issues e pull requests.
